@@ -55,20 +55,18 @@
 </details>
 
 <details>
-  <summary>Server</summary>
+  <summary>CSS</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="#">CSS</a></li>
   </ul>
 </details>
 
 <details>
-<summary>Database</summary>
+<summary>Javascript</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="#">Javascript</a></li>
   </ul>
 </details>
-
-<!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
@@ -107,8 +105,6 @@ Example command:
 ### Setup
 
 Clone this repository to your desired folder:
-
-=
 
 ```sh
   cd my-folder
