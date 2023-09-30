@@ -1,7 +1,7 @@
-import "./App.css";
-import NavBar from "./component/NavBar";
-import BookList from "./component/BookList";
-import { Routes, Route } from "react-router-dom";
+import './App.css';
+import { Routes, Route } from 'react-router-dom';
+import NavBar from './component/NavBar';
+import BookList from './component/BookList';
 
 function App() {
   return (
